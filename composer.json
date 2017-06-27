@@ -1,0 +1,22 @@
+{
+    "name": "bhc/foxphp",
+    "description": "",
+    "keywords": ["bhc", "foxphp"],
+    "homepage": "",
+    "license": ["Apache-2.0", "GPL-2.0+"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "bhc",
+            "homepage": ""
+        }
+    ],
+
+    "require": {},
+    "autoload":
+    {
+        "files": ["index.php"]
+
+    }
+
+}
